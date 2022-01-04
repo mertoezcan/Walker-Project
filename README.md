@@ -2,6 +2,7 @@
 Mechatronic Project at Helmholtz Institute for Biomedical Engineering:
 Modeling, simulation and control of a motorized walker
 
+CODE WILL BE PROVIDED AFTER THE PROJECT IS DONE!
 
 First Step "Measuring phsyical quantities for modeling":
 The mass of the walker including battery, motors and motor controllers 
