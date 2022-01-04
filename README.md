@@ -28,16 +28,16 @@ The motor controller and IMU were connected to the dSPACE RTI system.
 
 
 Used Software:
-MATLAB/Simulink
+MATLAB/Simulink,
 dSPACE ControlDesk
 
 Used Hardware:
-dSPACE RTI MicroAutoBox
-Inertial Measurement Unit
-CAN Bus Shield
-Arduino Nano
-Battery
-BLDC Motors
+dSPACE RTI MicroAutoBox,
+Inertial Measurement Unit,
+CAN Bus Shield,
+Arduino Nano,
+Battery,
+BLDC Motors,
 Motor Controller
 
 
