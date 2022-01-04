@@ -20,6 +20,12 @@ The dynamic of the motors was neglected.
 Third Step "Designing the controller":
 The state feedback gain was determined by using the infinite horizon LQR.
 
+Fourth Step "Hardware Implementation":
+The generated code was uploaded to the dSPACE RTI system using Simulink.
+A layout was created using dSPACE ControlDesk to control the walker and
+for signal processing. 
+The motor controller and IMU were connected to the dSPACE RTI system.
+
 
 Used Software:
 MATLAB/Simulink
