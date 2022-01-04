@@ -32,3 +32,10 @@ Arduino Nano
 Battery
 BLDC Motors
 Motor Controller
+
+
+
+
+https://user-images.githubusercontent.com/59392606/148139221-cd9ee1a1-c1e1-4755-bc11-36138f024e3a.mov
+
+
